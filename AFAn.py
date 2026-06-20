@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 #Welcome to the asistant for analysis, also called AFAn, made by Aramid
+=======
+#Bienvenido al asistente de análisis, también llamado AFAn
+>>>>>>> 0835b18 (Comentarios a español)
 from openai import OpenAI
-client= OpenAI(api_key="[apikey]",#Replace this [apikey] with your own api key
+client= OpenAI(api_key="[apikey]",#Reemplaza esta [apikey] con tu propia clave de api
                base_url="https://openrouter.ai/api/v1")
 def getFreeModels():
     models = client.models.list()
@@ -32,8 +36,8 @@ def message(text:str,role:str,
     return chat
 def sampleConversation():
     model=getFreeModels()[0]
-    answer=message("Who are you?",
-                   "data analyst",
+    answer=message("¿Quién eres?",
+                   "analista de datos",
                    model,
                    analyst)
     print(answer.choices[0].message.content)
@@ -41,7 +45,7 @@ def sampleConversation():
 import analyst
 print(True==("freedom".find('free')!=-1))
 if __name__=="__main__":
-    print("Hello world")
+    print("Hola mundo")
     print(analyst)
     print(sampleConversation())
     
