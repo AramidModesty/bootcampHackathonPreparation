@@ -1,4 +1,4 @@
-#Welcome to the asistant for analysis, also called AFAn
+#Welcome to the asistant for analysis, also called AFAn, made by Aramid
 from openai import OpenAI
 client= OpenAI(api_key="[apikey]",#Replace this [apikey] with your own api key
                base_url="https://openrouter.ai/api/v1")
