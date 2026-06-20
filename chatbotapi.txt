@@ -1,0 +1,7 @@
+// Bienvenido a Aramid dev guide para IA nivel 0
+// Para usar, solo usa tu terminal y usa
+// Si windows:
+//$ workStation/bin/activate
+// Si linux:
+//$ source workStation/bin/activate
+// o el equivalente de tu terminal sistema
