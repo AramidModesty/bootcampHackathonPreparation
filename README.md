@@ -1,8 +1,9 @@
 #Preparación para el hackathon
 Por Aramid monsalve, basado en cómo sería la creación de IA para desarrolladores principiantes.
-
 Este kit incluye todo lo necesario para la creación de IA básica: mensajes, ejemplos de llamadas a funciones y
 juegos de rol. El objetivo es un hackathon, y el resultado es un pequeño kit de inicio.
+
+Nota importante: Cualquier intento de commit dejando la clave api adentro resultara en error de commit, por lo cual se recomienda dejar a tu clave de ia api en una carpeta exterior y referenciarla con código desde dentro.
 
 Está basado en la documentación de OpenAI.
 
