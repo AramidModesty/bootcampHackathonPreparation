@@ -13,4 +13,4 @@ https://openrouter.ai/
 and don't forget to put the limit of your api bucket down to zero so you don't get asked for money.
 
 Finally, don't forget:
-# We must get victory at all cost, if Kaizen wins the prize at the start doesn't matter because it will be victory at all cost with whatever problem the bootcamp can send.
+# We must get victory at all cost, if Kaizen doesn't wins the prize at the start it doesn't matter because it will be victory at all cost.
