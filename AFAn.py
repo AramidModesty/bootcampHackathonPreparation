@@ -33,6 +33,8 @@ def message(text:str,role:str,
             "content":text,
             "tools":tools
             }
+    #Tools es la variable para los metodos que la IA podrá usar
+    # y que no ha sido implementada
         ]
     )
     return chat
