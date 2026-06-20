@@ -1,16 +1,18 @@
-# bootcampHackathonPreparation
-By Aramid monsalve in basis of what AI creation for dummy developers would be like.
-This one has everything we need for dummy AI creation like messages, function calling examples,
-and role games. The motive is hackathon, the result is the small starter kit.
-It is based in the docs of openai.
+#PreparaciónParaElHackathonBootcamp
+Por Aramid monsalve, basado en cómo sería la creación de IA para desarrolladores principiantes.
+
+Este kit incluye todo lo necesario para la creación de IA básica: mensajes, ejemplos de llamadas a funciones y
+juegos de rol. El objetivo es un hackathon, y el resultado es un pequeño kit de inicio.
+
+Está basado en la documentación de OpenAI.
 
 https://developers.openai.com/api/docs/guides
 
-Consider getting an api key at:
+Considera obtener una clave API en:
 
 https://openrouter.ai/
 
-and don't forget to put the limit of your api bucket down to zero so you don't get asked for money.
+No olvides definir el límite de tu bucket API a cero para evitar que te pidan dinero.
 
-Finally, don't forget:
-# We must get victory at all cost, if Kaizen doesn't wins the prize at the start it doesn't matter because it will be victory at all cost.
+Finalmente, recuerda:
+# Kaizen a todo costo, victoria a todo costo. Incluso si no nos toca premio de primer lugar no importa porque tendremos preparada una app que nos de la victoria a todo costo
