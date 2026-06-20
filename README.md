@@ -1,4 +1,4 @@
-#PreparaciónParaElHackathonBootcamp
+#Preparación para el hackathon
 Por Aramid monsalve, basado en cómo sería la creación de IA para desarrolladores principiantes.
 
 Este kit incluye todo lo necesario para la creación de IA básica: mensajes, ejemplos de llamadas a funciones y
