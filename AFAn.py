@@ -38,13 +38,19 @@ def message(text:str,role:str,
     return chat
 def sampleConversation():
     model=getFreeModels()[0]
+    tools=[
+        {"type":"function",
+         "name":"graph",
+         "descripcion":"Retorna "
+         },{},{}
+    ]
     answer=message("Who are you?",
-                   "system",
-                   model)
+                   "user",
+                   model,
+                   tools)
     print(answer.choices[0].message.content)
     return answer
 import analyst
-get_dataframe=analyst.getDataframe
 if __name__=="__main__":
     print("Hola mundo")
     print(analyst)
