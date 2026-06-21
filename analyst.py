@@ -12,6 +12,8 @@ def limpiarDf(df:pd.DataFrame):
 def limpiarTiemposDf(df_limp,column,limInf,limSup):
     df_limp.at_time(pd.date_range(start=limInf,end=limSup))
     return df_limp
+def getDataframe():
+    return df
 if __name__=="__main__":
     df=pd.read_excel("sampleDataframe.xlsx")
     print(df.info())
