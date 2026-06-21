@@ -35,7 +35,3 @@ wheels/
 # OS
 .DS_Store
 Thumbs.db
-
-# Project specific
-venv/
-workStation/
